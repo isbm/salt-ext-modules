@@ -1,1 +1,2 @@
-# salt-ext-modules
+# Extra custom modules for SaltStack
+
